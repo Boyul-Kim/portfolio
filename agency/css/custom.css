@@ -1,0 +1,21 @@
+/* your styles go here */
+
+.profile-img {
+  width: 350px;
+  height: 475px;
+}
+
+.portfolio-img {
+  width: 200px;
+  height: 350px;
+}
+
+.page-color {
+  color: #5091da;
+}
+
+.width-50 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
