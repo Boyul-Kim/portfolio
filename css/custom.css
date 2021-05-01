@@ -20,12 +20,21 @@
   margin-right: auto;
 }
 
+.width-80 {
+  width: 90%;
+}
+
 .margin-left {
   margin-left: 7rem;
 }
 
 .contact-width {
   width: 25%;
+}
+
+.container-portfolio {
+  display: flex;
+  justify-content: center;
 }
 
 @media screen and (min-width: 600px) {
